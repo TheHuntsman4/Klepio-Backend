@@ -1,0 +1,10 @@
+{
+    "version": 2,
+    "routes": [
+        {
+            "src": "/(.*)",
+            "dest": "/"
+        }
+    ],
+    "files": ["DentAIv1.pkl"]
+}
