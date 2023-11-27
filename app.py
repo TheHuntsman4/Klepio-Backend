@@ -17,7 +17,7 @@ app.add_middleware(
 )
 
 # Load model and encoder
-model = pickle.load(open('DentAIv3.pkl', 'rb'))
+model = pickle.load(open('DentAIv2.pkl', 'rb'))
 
 
 class Item(BaseModel):
