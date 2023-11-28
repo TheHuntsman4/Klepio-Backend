@@ -1,62 +1,53 @@
-from fastapi import FastAPI, HTTPException, Request
-from fastapi.middleware.cors import CORSMiddleware
-import tensorflow as tf
-import pandas as pd
+import onnxruntime as rt
 import numpy as np
-import math
+from fastapi.middleware.cors import CORSMiddleware
+from fastapi import FastAPI
+from pydantic import BaseModel
+#defining the InputData format
+class InputData(BaseModel):
+    Chief_complaint: float 
+    Nature_of_Pain: float 
+    Severity_of_pain: float
+    Onset_and_mode_of_pain: float
+    Factors_which_worsens_the_pain: float
+    Is_the_swelling_painful: float
+    Has_the_swelling_changed_since_it_was_first_noticed: float 
+    Does_the_swelling_changes_during_normal_activities: float
+    Is_the_ulcer_painful: float
+    Is_there_bleeding_from_the_ulcer: float
+    Is_there_discharge_from_the_ulcer: float
+    Is_there_a_foul_smell_from_the_ulcer: float
+    Do_the_ulcers_interfere_with_daily_activities: float
+    Has_the_ulcer_changed_since_first_noticed: float
+    Have_you_had_similar_ulcers: float
+    Is_there_bleeding_in_the_gums: float
+    Is_there_pain_in_the_gums: float 
+    If_any_tooth_teeth_is_are_mobile_what_is_the_degree_of_mobility: float
 
 app = FastAPI()
-
-# Enable CORS for all origins
+#Enabling all orgins
 app.add_middleware(
     CORSMiddleware,
     allow_origins=["*"],
     allow_credentials=True,
     allow_methods=["*"],
-    allow_headers=["*"],
-)
+    allow_headers=["*"],)
+# Load ONNX model
+sess = rt.InferenceSession("DentAIv3.onnx") 
+input_name = sess.get_inputs()[0].name
 
-# Load model and encoder
-model = tf.keras.models.load_model('DentNNv2.h5')
+@app.post("/predict")
+async def predict(input_data: InputData):
 
+    # Convert features to floats
+    input_np = np.array([[float(i) for i in input_data.dict().values()]], dtype=np.float32)
+    
+    # Reshape input 
+    input_np = input_np.reshape(1, -1)
 
-class Item:
-    def __init__(self, **kwargs):
-        self.__dict__.update(kwargs)
-
-
-@app.post('/predict')
-async def predict(request: Request):
-    try:
-        input_data = await request.json()
-
-        # Convert string values to numeric types
-        input_data = {key: float(value) for key, value in input_data.items()}
-
-        # Create an Item instance
-        input_item = Item(**input_data)
-
-        # Convert Item object to DataFrame
-        input_df = pd.DataFrame([input_item.__dict__])
-
-        # Fill NaN values with 0
-        input_df = input_df.fillna(0)
-
-        # Extract inputs as a numpy array
-        inputs = input_df.values
-
-        # Make predictions using the pre-trained model
-        prediction = model.predict(inputs).tolist()
-
-        # Round down the predicted value to the nearest integer
-        rounded_prediction = math.floor(prediction[0][0])
-
-        return {"prediction": rounded_prediction}
-
-    except Exception as e:
-        raise HTTPException(status_code=500, detail=str(e))
-
-
-@app.options('/predict')
-async def handle_options():
-    return {"message": "Options"}
+    # Run prediction with ONNX Runtime
+    ort_inputs = {input_name: input_np}
+    ort_outs = sess.run(None, ort_inputs)
+    
+    # Return integer prediction
+    return {"prediction": int(ort_outs[0][0])}
