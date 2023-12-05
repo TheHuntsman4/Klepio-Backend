@@ -1,0 +1,425 @@
+Timestamp,Patient Number,Chief complaint,Nature of Pain,Severity of pain,Onset  and mode of pain,Factors which worsens the pain,Is the swelling painful?,Has the swelling changed since it was first noticed? If yes how quickly?,"Does the swelling changes during normal activities such as eating, speaking, etc?",Is the ulcer painful,Is there bleeding from the ulcer,Is there discharge from the ulcer?,Is there a foul smell from the ulcer?,Do the ulcers interfere with daily activities,Has the ulcer changed since first noticed?,Have you had similar ulcers?,Final Diagnosis,Is there bleeding in the gums?,Is there pain in the gums,"If any tooth/teeth is/are mobile, what is the degree of mobility"
+31/10/2023 08:55:03,M30,Pain,aching,Mild,lingering pain,No,No,No,No,No,No,No,No,No,No,No,Acute Irreversible Pulpitis,No,No,No
+31/10/2023 09:11:12,F21,Pain,aching,Mild,The pain came suddenly,Eating,No,No,No,No,No,No,No,No,No,No,Food impaction,No,No,No
+31/10/2023 09:28:50,M20,Swelling,throbbing,Moderate,lingering pain,Hot foods or drinks,No,No,No,No,No,No,No,No,No,No,Pulpitis with swelling ,No,No,No
+31/10/2023 09:29:47,F34,Pain,throbbing,Severe,The pain came suddenly,Hot foods or drinks,No,No,No,No,No,No,No,No,No,No,Acute Irreversible Pulpitis,No,No,No
+31/10/2023 09:36:48,F5,Swelling,No,No,No,No,No,Slow,No,No,No,No,No,No,No,No,Periodontal abcess,No,No,No
+31/10/2023 09:39:07,M32,Ulcer,throbbing,Moderate,The pain came suddenly,Hot foods or drinks,No,No,No,No,No,No,No,No,No,No,Acute Irreversible Pulpitis,No,No,No
+31/10/2023 10:50:38,F19,Pain,stabbing,Moderate,The pain came suddenly,Hot foods or drinks,No,No,No,No,No,No,No,No,No,No,Acute Irreversible Pulpitis,No,No,No
+31/10/2023 10:51:44,M12,Pain,throbbing,Severe,The pain came suddenly,Hot foods or drinks,No,No,No,No,No,No,No,No,No,No,Acute Irreversible Pulpitis,No,No,No
+01/11/2023 17:13:31,M39,Pain,throbbing,Moderate,The pain came suddenly,Hot foods or drinks,No,No,No,No,No,No,No,No,No,No,Acute Irreversible Pulpitis,No,No,No
+01/11/2023 17:16:37,F5,Pain,aching,Severe,The pain came suddenly,Eating,No,Slow,No,No,No,No,No,No,No,No,Acute Irreversible Pulpitis with acute gingivitis,No,Yes,No
+02/11/2023 16:35:47,M34,Pain,throbbing,Severe,The pain came suddenly,Eating,No,No,No,No,No,No,No,No,No,No,Acute Irreversible Pulpitis,No,No,No
+03/11/2023 09:07:08,M55,Pain,throbbing,Moderate,The pain came suddenly,Laying down,No,No,No,No,No,No,No,No,No,No,Acute Irreversible Pulpitis,No,No,No
+03/11/2023 09:08:45,F70,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,Chronic Destructive Periodontitis,No,Yes,2
+03/11/2023 09:09:46,M10,Pain,throbbing,Severe,The pain came suddenly,Laying down,No,No,No,No,No,No,No,No,No,No,Acute Irreversible Pulpitis,No,No,No
+03/11/2023 09:15:01,F36,Pain,stabbing,Severe,No,Laying down,No,No,No,No,No,No,No,No,No,No,Acute Irreversible Pulpitis,No,No,No
+03/11/2023 09:15:40,F49,Pain,throbbing,Moderate,No,Laying down,No,No,No,No,No,No,No,No,No,No,Acute Irreversible Pulpitis,No,No,No
+03/11/2023 09:19:06,F27,Swelling,aching,Mild,No,No,No,Rapid,No,No,No,No,No,No,No,No,Acute Irreversible Pulpitis with extra oral swelling,No,No,No
+03/11/2023 09:20:43,F40,Ulcer,burning,Severe,The pain came suddenly,No,No,No,No,No,No,No,No,No,No,No,Aphthous ulcer,No,No,No
+03/11/2023 09:21:28,F6,Pain,throbbing,Severe,The pain came suddenly,Hot foods or drinks,No,No,No,No,No,No,No,No,No,No,Acute Irreversible Pulpitis,No,No,No
+03/11/2023 09:22:50,M5,Swelling,aching,Mild,,Laying down,No,Rapid,No,No,No,No,No,No,No,No,Acute Irreversible Pulpitis with extra oral swelling,No,No,No
+03/11/2023 09:23:40,M80,Pain,throbbing,Severe,The pain came suddenly,Hot foods or drinks,No,No,No,No,No,No,No,No,No,No,Acute Irreversible Pulpitis,No,No,No
+03/11/2023 09:24:19,M14,Pain,throbbing,Moderate,The pain came suddenly,Laying down,No,No,No,No,No,No,No,No,No,No,Acute Irreversible Pulpitis,No,No,No
+03/11/2023 09:25:16,F26,Pain,throbbing,Severe,The pain came suddenly,Hot foods or drinks,No,No,No,No,No,No,No,No,No,No,Acute Irreversible Pulpitis,No,No,No
+03/11/2023 10:09:31,M28,Pain,aching,Mild,The pain came suddenly,Cold foods or drinks,No,No,No,No,No,No,No,No,No,No,Acute Reversible Pulpitis,No,No,No
+03/11/2023 10:10:43,M75,Pain,throbbing,Moderate,lingering pain,Laying down,No,Slow,No,No,No,No,No,No,No,No,Acute Irreversible Pulpitis,No,No,No
+03/11/2023 10:12:05,F43,Pain,aching,Mild,The pain came suddenly,Cold foods or drinks,No,No,No,No,No,No,No,No,No,No,Acute Reversible Pulpitis,No,No,No
+03/11/2023 10:47:32,F15,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,Acute gingivitis,Yes,Yes,No
+03/11/2023 10:48:49,F32,Ulcer,stabbing,Moderate,No,No,No,No,No,Yes,No,No,No,Yes,Yes,Yes,Aphthous ulcer,No,No,No
+03/11/2023 10:49:45,M76,Pain,throbbing,Severe,The pain came suddenly,Hot foods or drinks,No,No,No,No,No,No,No,No,No,No,Acute Irreversible Pulpitis,No,No,No
+03/11/2023 10:58:07,M49,Pain,aching,Mild,lingering pain,Cold foods or drinks,No,No,No,No,No,No,No,No,No,No,Acute Reversible Pulpitis,No,No,No
+03/11/2023 10:59:23,M10,Swelling,throbbing,Moderate,The pain came suddenly,Laying down,No,Slow,No,No,No,No,No,No,No,No,Acute Reversible Pulpitis with swelling ,No,No,No
+03/11/2023 11:00:39,F44,Pain,aching,Mild,lingering pain,Cold foods or drinks,No,No,No,No,No,No,No,No,No,No,Acute Reversible Pulpitis,No,No,No
+03/11/2023 11:01:21,F76,Pain,aching,Moderate,The pain came suddenly,Laying down,No,No,No,No,No,No,No,No,No,No,Acute Irreversible Pulpitis,No,No,No
+03/11/2023 11:02:10,F23,Pain,aching,Mild,The pain came suddenly,Cold foods or drinks,No,No,No,No,No,No,No,No,No,No,Acute Reversible Pulpitis,No,No,No
+03/11/2023 11:02:46,M18,Pain,aching,Moderate,lingering pain,Hot foods or drinks,No,No,No,No,No,No,No,No,No,No,Acute Irreversible Pulpitis,No,No,No
+03/11/2023 11:04:05,F47,Ulcer,burning,Severe,The pain came suddenly,No,No,No,No,Yes,No,No,No,Yes,No,No,Aphthous ulcer,No,No,No
+03/11/2023 11:04:52,M73,Pain,throbbing,Severe,lingering pain,Hot foods or drinks,No,No,No,No,No,No,No,No,No,No,Acute Irreversible Pulpitis,No,No,No
+03/11/2023 11:06:09,M9,Swelling,throbbing,Moderate,lingering pain,Eating,No,Slow,No,No,No,No,No,No,No,No,Acute Irreversible Pulpitis with extra oral swelling,No,No,No
+03/11/2023 11:09:33,M69,Pain,throbbing,Moderate,The pain came suddenly,Hot foods or drinks,No,No,No,No,No,No,No,No,No,No,Acute Irreversible Pulpitis,No,No,No
+03/11/2023 11:10:34,F32,Pain,aching,Mild,lingering pain,Laying down,No,No,No,No,No,No,No,No,No,No,Acute Irreversible Pulpitis,No,No,No
+03/11/2023 11:11:28,F47,Swelling,aching,Moderate,No,Laying down,No,Slow,No,No,No,No,No,No,No,No,Acute Irreversible Pulpitis with extra oral swelling,No,No,No
+03/11/2023 11:12:35,F51,Swelling,aching,Mild,No,Laying down,No,Slow,No,No,No,No,No,No,No,No,Acute Irreversible Pulpitis with extra oral swelling,No,No,No
+03/11/2023 11:21:13,F21,Pain,throbbing,Mild,The pain came suddenly,Cold foods or drinks,No,No,No,No,No,No,No,No,No,No,Acute Reversible Pulpitis,No,No,No
+03/11/2023 11:22:16,F35,Swelling,No,No,No,No,No,No,No,No,No,No,No,No,No,No,Acute Irreversible Pulpitis with extra oral swelling,No,No,No
+03/11/2023 11:22:52,F75,Pain,No,Mild,The pain came suddenly,Cold foods or drinks,No,No,No,No,No,No,No,No,No,No,Acute Reversible Pulpitis,No,No,No
+03/11/2023 11:24:33,M41,Pain,aching,Mild,The pain came suddenly,Eating,No,No,No,No,No,No,No,No,No,No,Dental caries with food impaction,No,No,No
+03/11/2023 11:25:24,F64,Pain,throbbing,Moderate,lingering pain,Hot foods or drinks,No,Slow,No,No,No,No,No,No,No,No,Acute Irreversible Pulpitis with extra oral swelling,No,No,No
+03/11/2023 11:26:15,F27,Pain,throbbing,Severe,The pain came suddenly,Laying down,No,No,No,No,No,No,No,No,No,No,Acute Reversible Pulpitis,No,No,No
+03/11/2023 11:26:58,F31,Pain,aching,Moderate,lingering pain,Laying down,No,No,No,No,No,No,No,No,No,No,Acute Irreversible Pulpitis,No,No,No
+04/11/2023 09:31:55,M59,Pain,throbbing,Moderate,The pain came suddenly,Laying down,,,,,,,,,,,Acute Irreversible Pulpitis,,,
+04/11/2023 09:32:27,F23,Pain,throbbing,Severe,The pain came suddenly,Hot foods or drinks,,,,,,,,,,,Acute Irreversible Pulpitis,,,
+04/11/2023 09:33:06,F25,Pain,aching,Mild,The pain came suddenly,Cold foods or drinks,,,,,,,,,,,Acute Reversible Pulpitis,,,
+06/11/2023 09:50:20,M42,Pain,throbbing,Severe,The pain came suddenly,Hot foods or drinks,,,,,,,,,,,Acute Irreversible Pulpitis,,,
+06/11/2023 09:51:25,F44,Swelling,,,,,Yes,Slow,No,,,,,,,,Extra oral swelling with Acute Irreversible Pulpitis,,,
+06/11/2023 10:06:38,F30,Pain,aching,Moderate,The pain came suddenly,Eating,,,,,,,,,,,Acute Reversible Pulpitis with food impaction,,,
+06/11/2023 10:07:36,F58,Ulcer,burning,Severe,The pain came suddenly,,,,,Yes,No,No,No,Yes,Yes,,Aphthous ulcer,Yes,,
+06/11/2023 10:10:47,F65,Pain,throbbing,Moderate,The pain came suddenly,Hot foods or drinks,,,,,,,,,,,Acute Irreversible Pulpitis,,,
+06/11/2023 10:11:54,F56,Swelling,aching,Moderate,,Laying down,,Slow,No,,,,,,,,Extra oral swelling with Acute Irreversible Pulpitis,,,
+06/11/2023 10:13:39,F48,Pain,throbbing,,,,,,,,,,,,,,Periodontitis with grade 2 tooth mobility ,Yes,Yes,2
+06/11/2023 10:14:35,F64,Ulcer,burning,Moderate,The pain came suddenly,,,,,Yes,No,No,No,Yes,Yes,Yes,Aphthous ulcer,,,
+06/11/2023 10:15:37,M58,Pain,throbbing,Severe,The pain came suddenly,Hot foods or drinks,,,,,,,,,,,Acute Irreversible Pulpitis,,,
+06/11/2023 10:16:58,M72,Swelling,aching,Moderate,The pain came suddenly,Eating,,,,,,,,,,,Acute gingivitis,Yes,Yes,1
+06/11/2023 10:17:34,F38,Pain,throbbing,Mild,The pain came suddenly,Cold foods or drinks,,,,,,,,,,,Acute Reversible Pulpitis,,,
+06/11/2023 10:18:08,M48,Pain,aching,Mild,lingering pain,Cold foods or drinks,,,,,,,,,,,Acute Reversible Pulpitis,,,
+06/11/2023 10:18:44,F49,Pain,aching,Moderate,The pain came suddenly,Laying down,,,,,,,,,,,Acute Irreversible Pulpitis,,,
+06/11/2023 10:20:24,F55,Swelling,aching,Mild,lingering pain,Laying down,No,No,No,,,,,,,,Extra oral swelling with Acute Irreversible Pulpitis,,,
+06/11/2023 10:34:34,F70,Pain,aching,Mild,lingering pain,Eating,Yes,Slow,No,,,,,,,,Periodontitis with mobility of tooth,,Yes,2
+06/11/2023 10:35:26,F68,Pain,throbbing,Severe,The pain came suddenly,Laying down,,,,,,,,,,,Acute Irreversible Pulpitis,,,
+06/11/2023 10:36:27,F23,Pain,aching,Mild,lingering pain,,,,,,,,,,,,Chronic gingivitis,No,Yes,No
+06/11/2023 10:43:08,M29,Swelling,throbbing,Moderate,No,No,Yes,No,No,,,,,,,,Dental abcess,,,1
+06/11/2023 10:53:05,F21,Pain,throbbing,Severe,The pain came suddenly,Hot foods or drinks,,,,,,,,,,,Acute Irreversible Pulpitis,,,
+06/11/2023 10:53:46,F60,Pain,aching,Mild,lingering pain,Laying down,,,,,,,,,,,Acute Irreversible Pulpitis,,,
+06/11/2023 11:12:20,F6,Pain,throbbing,Moderate,The pain came suddenly,Hot foods or drinks,,,,,,,,,,,Acute Irreversible Pulpitis,,,
+06/11/2023 11:12:55,M52,Pain,throbbing,Moderate,lingering pain,Eating,,,,,,,,,,,Acute Irreversible Pulpitis,,,
+06/11/2023 11:14:14,F25,Pain,stabbing,Severe,lingering pain,Eating,No,No,No,,,,,,,,Pericoronitis,,,
+06/11/2023 11:14:48,F60,Pain,stabbing,Severe,The pain came suddenly,Laying down,,,,,,,,,,,Acute Irreversible Pulpitis,,,
+06/11/2023 11:15:27,F46,Pain,throbbing,Moderate,The pain came suddenly,Laying down,,,,,,,,,,,Acute Irreversible Pulpitis,,,
+06/11/2023 11:16:21,F53,Swelling,,,,,No,Slow,No,,,,,,,,Extra oral swelling with Acute Irreversible Pulpitis,,,
+06/11/2023 11:17:13,F23,Swelling,aching,Mild,lingering pain,Eating,No,Slow,No,,,,,,,,Acute Irreversible Pulpitis with extra oral swelling,,,
+06/11/2023 11:17:58,F32,Pain,throbbing,Mild,,Cold foods or drinks,,,,,,,,,,,Acute Reversible Pulpitis,,,
+06/11/2023 11:18:41,M43,Pain,aching,Mild,lingering pain,Cold foods or drinks,,,,,,,,,,,Acute Reversible Pulpitis,,,
+06/11/2023 11:19:13,F47,Pain,throbbing,Mild,lingering pain,Hot foods or drinks,,,,,,,,,,,Acute Irreversible Pulpitis,,,
+06/11/2023 11:20:14,F45,Pain,,,,,,,,,,,,,,,Chronic gingivitis with teeth mobility ,Yes,Yes,1
+06/11/2023 11:20:48,F4,Pain,throbbing,Severe,The pain came suddenly,Hot foods or drinks,,,,,,,,,,,Acute Irreversible Pulpitis,,,
+06/11/2023 12:02:12,F60,Pain,throbbing,Moderate,The pain came suddenly,Hot foods or drinks,,,,,,,,,,,Acute Irreversible Pulpitis,,,
+06/11/2023 12:02:49,F11,Pain,aching,Mild,lingering pain,Cold foods or drinks,,,,,,,,,,,Acute Reversible Pulpitis,,,
+06/11/2023 12:03:17,F11,Pain,aching,Mild,lingering pain,Cold foods or drinks,,,,,,,,,,,Acute Reversible Pulpitis,,,
+06/11/2023 17:39:27,M30,Pain,aching,Severe,The pain came suddenly,Hot foods or drinks,,,,,,,,,,,Acute Reversible Pulpitis,No,No,
+06/11/2023 17:40:38,F26,Pain,burning,Moderate,lingering pain,,,,,,,,,,,,Gingivitis,Yes,Yes,No
+06/11/2023 17:42:11,M45,Swelling,throbbing,Severe,The pain came suddenly,Hot foods or drinks,Yes,Rapid,No,,,,,,,,Dental abcess,,,3
+06/11/2023 17:43:06,F30,Pain,aching,Severe,The pain came suddenly,Hot foods or drinks,,,,,,,,,,,Acute Irreversible Pulpitis,,,
+07/11/2023 09:15:23,M76,Ulcer,burning,Mild,lingering pain,Eating,,,,Yes,No,No,No,No,No,Yes,Aphthous ulcer,,,
+07/11/2023 09:15:53,M76,Pain,throbbing,Mild,The pain came suddenly,Hot foods or drinks,,,,,,,,,,,Acute Irreversible Pulpitis,,,
+07/11/2023 09:21:04,M28,Pain,throbbing,Mild,lingering pain,Cold foods or drinks,,,,,,,,,,,Acute Reversible Pulpitis,,,
+07/11/2023 09:22:27,M63,Pain,aching,Mild,lingering pain,,,,,,,,,,,,Periodontitis with grade 3 mobility ,No,Yes,3
+07/11/2023 09:23:13,M57,Ulcer,burning,Severe,The pain came suddenly,,,,,Yes,No,No,No,No,No,Yes,Aphthous ulcer,,,
+07/11/2023 09:57:43,M49,Pain,throbbing,Severe,The pain came suddenly,Hot foods or drinks,,,,,,,,,,,Acute Irreversible Pulpitis,,,
+07/11/2023 10:15:19,F52,Swelling,aching,Mild,,Laying down,Yes,Slow,No,,,,,,,,Acute Irreversible Pulpitis with extra oral swelling,,,
+07/11/2023 10:31:32,F37,Pain,throbbing,Severe,The pain came suddenly,Laying down,,,,,,,,,,,Acute Irreversible Pulpitis,,,
+07/11/2023 10:32:29,F65,Swelling,aching,Severe,,Hot foods or drinks,Yes,Slow,No,,,,,,,,Acute Irreversible Pulpitis with extra oral swelling,,,
+07/11/2023 10:33:17,M48,Pain,throbbing,Mild,The pain came suddenly,Cold foods or drinks,,,,,,,,,,,Acute Reversible Pulpitis,,,
+07/11/2023 10:33:54,F56,Pain,stabbing,Severe,The pain came suddenly,Hot foods or drinks,,,,,,,,,,,Acute Irreversible Pulpitis,,,
+07/11/2023 10:34:47,M52,Swelling,stabbing,,The pain came suddenly,Eating,No,Slow,No,,,,,,,,Acute Irreversible Pulpitis with extra oral swelling,,,
+07/11/2023 10:35:20,F15,Pain,throbbing,Moderate,The pain came suddenly,Hot foods or drinks,,,,,,,,,,,Acute Irreversible Pulpitis,,,
+07/11/2023 10:39:40,F7,Swelling,throbbing,Severe,The pain came suddenly,Laying down,No,Slow,No,,,,,,,,Acute Irreversible Pulpitis with extra oral swelling,,,
+07/11/2023 10:52:09,F40,Ulcer,burning,Moderate,The pain came suddenly,Eating,,,,Yes,No,No,No,No,No,No,Aphthous ulcer,,,
+08/11/2023 11:12:19,F21,Pain,throbbing,Mild,The pain came suddenly,Cold foods or drinks,,,,,,,,,,,Acute Reversible Pulpitis,,,
+08/11/2023 11:15:44,M60,Pain,throbbing,Mild,The pain came suddenly,Cold foods or drinks,,,,,,,,,,,Acute Reversible Pulpitis,,,
+08/11/2023 11:16:25,F52,Pain,throbbing,Moderate,lingering pain,Hot foods or drinks,,,,,,,,,,,Acute Irreversible Pulpitis,,,
+08/11/2023 11:17:25,F68,Pain,stabbing,Moderate,lingering pain,Eating,,,,,,,,,,,Periodontitis with grade 2 mobility ,Yes,Yes,2
+08/11/2023 11:17:52,F56,Pain,throbbing,Mild,lingering pain,Cold foods or drinks,,,,,,,,,,,Acute Reversible Pulpitis,,,
+08/11/2023 11:18:43,F56,Swelling,aching,Moderate,The pain came suddenly,Laying down,Yes,Slow,No,,,,,,,,Acute Irreversible Pulpitis with extra oral swelling,,,
+08/11/2023 11:19:32,F60,Swelling,aching,Moderate,lingering pain,Laying down,Yes,Slow,No,,,,,,,,Acute Irreversible Pulpitis with extra oral swelling,,,
+08/11/2023 11:20:34,M53,Swelling,aching,Moderate,The pain came suddenly,Eating,Yes,Slow,No,,,,,,,,Periodontitis with grade one mobility ,No,Yes,1
+08/11/2023 11:21:14,F37,Pain,throbbing,Mild,The pain came suddenly,Cold foods or drinks,,,,,,,,,,,Acute Reversible Pulpitis,,,
+08/11/2023 11:22:31,F35,Swelling,throbbing,Mild,lingering pain,Eating,Yes,Slow,No,,,,,,,,Acute Reversible Pulpitis with food impaction ,Yes,Yes,No
+08/11/2023 11:23:10,F2,Pain,throbbing,Moderate,The pain came suddenly,Laying down,,,,,,,,,,,Acute Irreversible Pulpitis,,,
+10/11/2023 08:35:13,F25,Pain,throbbing,Mild,The pain came suddenly,Cold foods or drinks,,,,,,,,,,,Acute Reversible Pulpitis,,,
+10/11/2023 08:36:15,F11,Swelling,aching,Moderate,The pain came suddenly,Eating,No,Slow,No,,,,,,,,Acute Reversible Pulpitis with food impaction ,,,
+10/11/2023 08:42:28,F38,Pain,throbbing,Severe,The pain came suddenly,Hot foods or drinks,,,,,,,,,,,Acute Irreversible Pulpitis,,,
+10/11/2023 08:43:06,F38,Pain,throbbing,Mild,The pain came suddenly,Cold foods or drinks,,,,,,,,,,,Acute Reversible Pulpitis,,,
+10/11/2023 08:43:36,F40,Pain,throbbing,Mild,The pain came suddenly,Cold foods or drinks,,,,,,,,,,,Acute Reversible Pulpitis with food impaction ,,,
+10/11/2023 08:44:10,M20,Pain,throbbing,Mild,The pain came suddenly,Cold foods or drinks,,,,,,,,,,,Acute Reversible Pulpitis,,,
+10/11/2023 08:44:41,M43,Pain,throbbing,Mild,The pain came suddenly,Cold foods or drinks,,,,,,,,,,,Acute Reversible Pulpitis,,,
+10/11/2023 08:45:52,F50,Pain,stabbing,Moderate,lingering pain,Eating,,,,,,,,,,,Periodontitis with grade 2 mobility ,No,Yes,2
+10/11/2023 08:46:24,M77,Pain,throbbing,Mild,The pain came suddenly,Hot foods or drinks,,,,,,,,,,,Acute Irreversible Pulpitis,,,
+10/11/2023 08:47:20,M19,Pain,aching,Mild,lingering pain,Eating,,,,,,,,,,,Gingivitis,Yes,Yes,No
+10/11/2023 08:48:20,F43,Swelling,aching,Moderate,lingering pain,Eating,Yes,Slow,No,,,,,,,,Acute Irreversible Pulpitis with extra oral swelling,,,
+10/11/2023 08:49:02,F27,Pain,throbbing,Severe,The pain came suddenly,Hot foods or drinks,,,,,,,,,,,Acute Irreversible Pulpitis,,,
+10/11/2023 08:49:57,M60,Swelling,throbbing,Mild,lingering pain,Laying down,No,Slow,No,,,,,,,,Acute Irreversible Pulpitis with extra oral swelling,,,
+10/11/2023 08:50:31,M65,Pain,throbbing,Mild,The pain came suddenly,Cold foods or drinks,,,,,,,,,,,Acute Reversible Pulpitis,,,
+10/11/2023 08:51:33,F6,Swelling,throbbing,Moderate,The pain came suddenly,Hot foods or drinks,No,Slow,No,,,,,,,,Acute Irreversible Pulpitis with extra oral swelling,,,
+10/11/2023 08:53:46,F67,Pain,throbbing,Severe,The pain came suddenly,Hot foods or drinks,,,,,,,,,,,Acute Irreversible Pulpitis,,,
+10/11/2023 08:54:11,M56,Pain,aching,Mild,The pain came suddenly,Cold foods or drinks,,,,,,,,,,,Acute Reversible Pulpitis,,,
+10/11/2023 08:55:08,M76,Ulcer,burning,Severe,The pain came suddenly,Eating,,,,Yes,No,No,No,Yes,Yes,Yes,Denture sore ulcer ,,,
+10/11/2023 11:10:33,F46,Pain,throbbing,Mild,The pain came suddenly,Cold foods or drinks,,,,,,,,,,,Acute Reversible Pulpitis,,,
+10/11/2023 11:11:08,F39,Pain,throbbing,Mild,lingering pain,Cold foods or drinks,,,,,,,,,,,Acute Reversible Pulpitis,,,
+10/11/2023 11:11:47,F24,Pain,aching,Moderate,The pain came suddenly,Hot foods or drinks,,,,,,,,,,,Acute Irreversible Pulpitis,,,
+10/11/2023 11:12:24,F5,Swelling,stabbing,Moderate,The pain came suddenly,Eating,Yes,Slow,No,,,,,,,,Acute Irreversible Pulpitis with extra oral swelling,,,
+10/11/2023 11:12:52,M43,Pain,throbbing,Mild,The pain came suddenly,Cold foods or drinks,,,,,,,,,,,Acute Reversible Pulpitis,,,
+10/11/2023 11:13:24,F35,Pain,throbbing,Mild,The pain came suddenly,Cold foods or drinks,,,,,,,,,,,Acute Reversible Pulpitis,,,
+10/11/2023 11:13:49,M18,Pain,throbbing,Mild,The pain came suddenly,Cold foods or drinks,,,,,,,,,,,Acute Reversible Pulpitis,,,
+10/11/2023 11:14:46,M46,Pain,aching,Moderate,lingering pain,Eating,,,,,,,,,,,Periodontitis with grade two mobility ,Yes,Yes,2
+10/11/2023 11:15:13,F40,Pain,throbbing,Moderate,The pain came suddenly,Hot foods or drinks,,,,,,,,,,,Acute Irreversible Pulpitis,,,
+10/11/2023 11:16:11,F67,Pain,aching,Moderate,lingering pain,Eating,,,,,,,,,,,Periodontitis with grade three mobility ,Yes,Yes,3
+10/11/2023 11:16:50,F65,Pain,aching,Moderate,The pain came suddenly,Hot foods or drinks,,,,,,,,,,,Acute Irreversible Pulpitis,,,
+10/11/2023 11:17:22,F49,Pain,throbbing,Moderate,The pain came suddenly,Hot foods or drinks,,,,,,,,,,,Acute Irreversible Pulpitis,,,
+10/11/2023 11:18:01,F52,Swelling,aching,Moderate,lingering pain,Eating,No,Slow,No,,,,,,,,Acute Irreversible Pulpitis with extra oral swelling,,,
+10/11/2023 11:18:46,M52,Swelling,aching,Moderate,lingering pain,Eating,No,Slow,No,,,,,,,,Acute Irreversible Pulpitis with extra oral swelling,,,
+10/11/2023 11:19:28,F67,Pain,throbbing,Mild,lingering pain,Eating,,,,,,,,,,,Periodontitis with grade two mobility ,No,Yes,2
+10/11/2023 11:20:10,F35,Pain,burning,Moderate,lingering pain,Cold foods or drinks,,,,,,,,,,,Gingivitis,Yes,Yes,No
+10/11/2023 11:20:59,M65,Pain,throbbing,Moderate,lingering pain,Eating,,,,,,,,,,,Periodontitis with grade two mobility ,No,Yes,2
+10/11/2023 11:21:31,M70,Pain,throbbing,Severe,The pain came suddenly,Hot foods or drinks,,,,,,,,,,,Acute Irreversible Pulpitis,,,
+10/11/2023 11:21:59,F27,Pain,stabbing,Severe,The pain came suddenly,Hot foods or drinks,,,,,,,,,,,Acute Irreversible Pulpitis,,,
+11/11/2023 10:00:34,M64,Pain,aching,Mild,lingering pain,Eating,,,,,,,,,,,Periodontitis,Yes,Yes,1
+11/11/2023 10:01:48,M56,Pain,stabbing,Mild,The pain came suddenly,Cold foods or drinks,,,,,,,,,,,Acute Reversible Pulpitis,,,
+11/11/2023 10:02:31,M55,Pain,throbbing,Severe,The pain came suddenly,Hot foods or drinks,,,,,,,,,,,Acute Irreversible Pulpitis,,,
+11/11/2023 10:03:07,F47,Pain,throbbing,Moderate,The pain came suddenly,Hot foods or drinks,,,,,,,,,,,Acute Irreversible Pulpitis,,,
+11/11/2023 10:03:55,F40,Pain,throbbing,Moderate,The pain came suddenly,Hot foods or drinks,,,,,,,,,,,Acute Irreversible Pulpitis,,,
+11/11/2023 10:04:42,M10,Pain,throbbing,Moderate,The pain came suddenly,Eating,,,,,,,,,,,Gingivitis,Yes,Yes,No
+11/11/2023 10:27:08,F40,Pain,throbbing,Moderate,The pain came suddenly,Eating,,,,,,,,,,,Gingivitis,Yes,Yes,No
+11/11/2023 10:27:57,M48,Pain,throbbing,Severe,The pain came suddenly,Hot foods or drinks,,,,,,,,,,,Acute Irreversible Pulpitis,,,
+11/11/2023 10:28:37,F68,Pain,throbbing,Mild,lingering pain,Eating,,,,,,,,,,,Periodontitis,,Yes,1
+11/11/2023 10:29:37,M7,Swelling,stabbing,Mild,lingering pain,Eating,Yes,Slow,No,,,,,,,,Acute Irreversible Pulpitis with extra oral swelling,,,
+11/11/2023 10:30:28,F63,Pain,throbbing,Severe,The pain came suddenly,Hot foods or drinks,,,,,,,,,,,Acute Irreversible Pulpitis,,,
+11/11/2023 10:31:12,M10,Swelling,aching,Mild,lingering pain,Eating,No,Slow,No,,,,,,,,Acute Irreversible Pulpitis with extra oral swelling,,,
+13/11/2023 15:51:55,F57,Pain,throbbing,Moderate,The pain came suddenly,Hot foods or drinks,,,,,,,,,,,Acute Irreversible Pulpitis,,,
+14/11/2023 09:37:50,M55,Pain,throbbing,Mild,The pain came suddenly,Hot foods or drinks,,,,,,,,,,,Acute Irreversible Pulpitis,,,
+14/11/2023 09:38:45,M70,Pain,stabbing,Mild,lingering pain,No,,,,,,,,,,,Acute Gingivitis,No,Yes,
+14/11/2023 10:31:16,F33,Pain,throbbing,Severe,The pain came suddenly,Hot foods or drinks,,,,,,,,,,,Acute Irreversible Pulpitis,,,
+14/11/2023 10:31:58,F56,Swelling,aching,Moderate,The pain came suddenly,Laying down,No,Slow,No,,,,,,,,Acute Irreversible Pulpitis with extra oral swelling,,,
+14/11/2023 10:32:33,M6,Swelling,throbbing,Moderate,The pain came suddenly,Eating,No,Slow,No,,,,,,,,Acute Irreversible Pulpitis with extra oral swelling,,,
+14/11/2023 10:33:10,F65,Swelling,aching,Moderate,lingering pain,Eating,No,Slow,No,,,,,,,,Acute Irreversible Pulpitis with extra oral swelling,,,
+14/11/2023 10:33:41,F32,Pain,throbbing,Moderate,The pain came suddenly,Hot foods or drinks,,,,,,,,,,,Acute Irreversible Pulpitis,,,
+14/11/2023 10:34:13,M10,Pain,throbbing,Moderate,The pain came suddenly,Eating,,,,,,,,,,,Acute Irreversible Pulpitis,,,
+14/11/2023 10:34:48,M23,Pain,aching,Mild,The pain came suddenly,Cold foods or drinks,,,,,,,,,,,Acute Reversible Pulpitis,,,
+14/11/2023 10:35:36,F8,Pain,throbbing,Mild,The pain came suddenly,Cold foods or drinks,,,,,,,,,,,Acute Reversible Pulpitis,,,
+14/11/2023 10:36:40,F67,Pain,throbbing,Moderate,lingering pain,Eating,,,,,,,,,,,Chronic Destructive Periodontitis,Yes,Yes,3
+14/11/2023 10:40:22,F58,Swelling,throbbing,Moderate,The pain came suddenly,Hot foods or drinks,No,Slow,No,,,,,,,,Acute Irreversible Pulpitis with extra oral swelling,,,
+14/11/2023 10:46:32,F70,Pain,throbbing,Moderate,The pain came suddenly,Hot foods or drinks,,,,,,,,,,,Acute Irreversible Pulpitis,,,
+14/11/2023 10:47:16,M55,Pain,throbbing,Moderate,The pain came suddenly,Hot foods or drinks,,,,,,,,,,,Acute Irreversible Pulpitis,,,
+14/11/2023 10:49:04,M70,Pain,throbbing,Mild,lingering pain,Eating,,,,,,,,,,,Chronic Destructive Periodontitis,No,Yes,2
+14/11/2023 10:52:32,F58,Pain,aching,Mild,lingering pain,No,,,,,,,,,,,Acute Gingivitis,No,Yes,
+14/11/2023 11:09:33,M63,Swelling,throbbing,Mild,lingering pain,Hot foods or drinks,No,Slow,No,,,,,,,,Acute Irreversible Pulpitis with extra oral swelling,,,
+14/11/2023 11:10:00,F30,Pain,throbbing,Severe,The pain came suddenly,Hot foods or drinks,,,,,,,,,,,Acute Irreversible Pulpitis,,,
+14/11/2023 11:10:29,M50,Pain,stabbing,Severe,The pain came suddenly,Hot foods or drinks,,,,,,,,,,,Acute Irreversible Pulpitis,,,
+14/11/2023 11:12:05,M63,Pain,throbbing,Moderate,lingering pain,Eating,,,,,,,,,,,Chronic Gingivitis with teeth mobility,Yes,Yes,1
+14/11/2023 11:12:34,F40,Pain,throbbing,Mild,lingering pain,Cold foods or drinks,,,,,,,,,,,Acute Reversible Pulpitis,,,
+14/11/2023 11:13:13,F32,Pain,throbbing,Mild,lingering pain,Cold foods or drinks,,,,,,,,,,,Acute Reversible Pulpitis,,,
+15/11/2023 09:20:28,M56,Pain,throbbing,Moderate,lingering pain,Hot foods or drinks,,,,,,,,,,,Acute Irreversible Pulpitis,,,
+15/11/2023 09:20:55,M62,Pain,throbbing,Severe,The pain came suddenly,Eating,,,,,,,,,,,Acute Irreversible Pulpitis,,,
+15/11/2023 09:50:20,F71,Ulcer,burning,Moderate,lingering pain,Eating,,,,,,,,,,,Denture sore ulcer,,,
+15/11/2023 09:51:43,M72,Ulcer,burning,Severe,lingering pain,Eating,,,,Yes,No,No,No,Yes,No,No,Denture sore ulcer,,,
+15/11/2023 10:16:06,F50,Pain,throbbing,Mild,lingering pain,Eating,,,,,,,,,,,Chronic Destructive Periodontitis,Yes,Yes,2
+15/11/2023 10:16:56,M60,Swelling,throbbing,Moderate,The pain came suddenly,Laying down,No,Slow,No,,,,,,,,Acute Irreversible Pulpitis with extra oral swelling,,,
+15/11/2023 10:17:54,F49,Pain,aching,Moderate,The pain came suddenly,Hot foods or drinks,,,,,,,,,,,Acute Irreversible Pulpitis,,,
+15/11/2023 10:18:28,F9,Pain,throbbing,Moderate,The pain came suddenly,Eating,,,,,,,,,,,Acute Irreversible Pulpitis,,,
+15/11/2023 10:18:49,F34,Pain,throbbing,Mild,The pain came suddenly,Cold foods or drinks,,,,,,,,,,,Acute Reversible Pulpitis,,,
+16/11/2023 11:04:17,F22,Pain,throbbing,Mild,The pain came suddenly,Cold foods or drinks,,,,,,,,,,,Acute Reversible Pulpitis,,,
+16/11/2023 11:35:50,M30,Pain,throbbing,Moderate,lingering pain,Hot foods or drinks,,,,,,,,,,,Acute Irreversible Pulpitis,,,
+16/11/2023 11:36:20,F6,Pain,throbbing,Mild,lingering pain,Eating,,,,,,,,,,,Acute Reversible Pulpitis,,,
+16/11/2023 11:37:10,F44,Pain,throbbing,Severe,The pain came suddenly,Eating,,,,,,,,,,,Acute Irreversible Pulpitis,,,
+16/11/2023 11:37:35,M10,Pain,throbbing,Mild,The pain came suddenly,Cold foods or drinks,,,,,,,,,,,Acute Reversible Pulpitis,,,
+16/11/2023 11:38:33,M48,Pain,aching,Mild,lingering pain,Eating,,,,,,,,,,,Acute Reversible Pulpitis,,,
+16/11/2023 11:39:08,F43,Pain,stabbing,Severe,The pain came suddenly,Hot foods or drinks,,,,,,,,,,,Acute Irreversible Pulpitis,,,
+16/11/2023 11:39:35,F23,Pain,throbbing,Mild,lingering pain,Eating,,,,,,,,,,,Acute Reversible Pulpitis,,,
+16/11/2023 12:05:56,M69,Pain,throbbing,Mild,lingering pain,Cold foods or drinks,,,,,,,,,,,Acute Reversible Pulpitis,,,
+16/11/2023 12:06:40,M23,Pain,stabbing,Moderate,lingering pain,Hot foods or drinks,,,,,,,,,,,Acute Irreversible Pulpitis,,,
+16/11/2023 12:07:13,F34,Pain,aching,Mild,The pain came suddenly,Eating,,,,,,,,,,,Acute Reversible Pulpitis,,,
+16/11/2023 12:08:48,F47,Pain,throbbing,Moderate,The pain came suddenly,Eating,,,,,,,,,,,Acute Irreversible Pulpitis,,,
+16/11/2023 12:09:28,F24,Pain,aching,Mild,The pain came suddenly,Cold foods or drinks,,,,,,,,,,,Acute Reversible Pulpitis,,,
+16/11/2023 12:10:20,F62,Swelling,aching,Moderate,lingering pain,Hot foods or drinks,No,Slow,No,,,,,,,,Acute Irreversible Pulpitis with extra oral swelling,,,
+16/11/2023 12:10:48,F9,Pain,throbbing,Mild,lingering pain,Eating,,,,,,,,,,,Acute Irreversible Pulpitis,,,
+16/11/2023 12:11:29,F7,Swelling,aching,Moderate,lingering pain,Eating,,,,,,,,,,,Acute Gingivitis,No,Yes,
+16/11/2023 12:13:14,F4,Pain,aching,Mild,lingering pain,Laying down,,,,,,,,,,,Acute Reversible Pulpitis,,,
+16/11/2023 12:15:25,F52,Pain,throbbing,Moderate,lingering pain,Eating,,,,,,,,,,,Chronic Gingivitis,Yes,Yes,
+16/11/2023 12:16:15,F48,Pain,throbbing,Moderate,lingering pain,Eating,,,,,,,,,,,Acute Gingivitis,No,Yes,
+16/11/2023 12:17:07,F52,Swelling,stabbing,Moderate,The pain came suddenly,Eating,No,No,No,,,,,,,,Acute Gingivitis,Yes,Yes,
+16/11/2023 12:18:10,F38,Pain,throbbing,Mild,lingering pain,Cold foods or drinks,,,,,,,,,,,Acute Reversible Pulpitis,,,
+16/11/2023 12:19:33,M69,Swelling,aching,Moderate,lingering pain,Eating,Yes,Slow,No,,,,,,,,Acute Gingivitis,Yes,Yes,
+16/11/2023 12:20:12,F48,Pain,throbbing,Moderate,The pain came suddenly,Hot foods or drinks,,,,,,,,,,,Acute Irreversible Pulpitis,,,
+16/11/2023 12:21:00,M33,Pain,throbbing,Moderate,The pain came suddenly,Hot foods or drinks,,,,,,,,,,,Acute Irreversible Pulpitis,,,
+16/11/2023 12:21:58,F30,Pain,stabbing,Moderate,The pain came suddenly,Laying down,,,,,,,,,,,Acute Irreversible Pulpitis,,,
+16/11/2023 12:23:07,M64,Pain,throbbing,Moderate,lingering pain,Cold foods or drinks,,,,,,,,,,,Chronic Gingivitis with teeth mobility,,,
+16/11/2023 12:24:02,M48,Pain,throbbing,Moderate,The pain came suddenly,Hot foods or drinks,,,,,,,,,,,Acute Irreversible Pulpitis,,,
+16/11/2023 12:24:45,F35,Swelling,aching,Moderate,lingering pain,Eating,No,Slow,No,,,,,,,,Acute Irreversible Pulpitis with extra oral swelling,,,
+16/11/2023 12:25:09,M28,Pain,throbbing,Mild,The pain came suddenly,Cold foods or drinks,,,,,,,,,,,Acute Reversible Pulpitis,,,
+16/11/2023 12:25:37,F35,Pain,throbbing,Mild,lingering pain,Cold foods or drinks,,,,,,,,,,,Acute Irreversible Pulpitis,,,
+20/11/2023 10:38:46,F21,Pain,throbbing,Mild,The pain came suddenly,Cold foods or drinks,,,,,,,,,,,Acute Reversible Pulpitis,,,
+20/11/2023 10:39:15,M17,Pain,throbbing,Mild,The pain came suddenly,Cold foods or drinks,,,,,,,,,,,Acute Reversible Pulpitis,,,
+20/11/2023 10:39:42,M28,Pain,throbbing,Mild,The pain came suddenly,Cold foods or drinks,,,,,,,,,,,Acute Reversible Pulpitis,,,
+20/11/2023 10:40:15,F58,Pain,throbbing,Mild,The pain came suddenly,Cold foods or drinks,,,,,,,,,,,Acute Reversible Pulpitis,,,
+20/11/2023 10:40:45,M9,Pain,stabbing,Moderate,The pain came suddenly,Eating,,,,,,,,,,,Acute Irreversible Pulpitis,,,
+20/11/2023 10:41:15,M35,Pain,stabbing,Severe,The pain came suddenly,Eating,,,,,,,,,,,Acute Irreversible Pulpitis,,,
+20/11/2023 10:42:00,F35,Pain,throbbing,Mild,lingering pain,,,,,,,,,,,,Acute Reversible Pulpitis,,,
+20/11/2023 10:43:39,F48,Pain,throbbing,Moderate,,Hot foods or drinks,,,,,,,,,,,Acute Irreversible Pulpitis,,,
+20/11/2023 10:44:19,M15,Pain,throbbing,Mild,The pain came suddenly,Cold foods or drinks,,,,,,,,,,,Acute Reversible Pulpitis,,,
+20/11/2023 10:46:33,M79,Pain,throbbing,Moderate,lingering pain,Eating,,,,,,,,,,,Chronic Destructive Periodontitis,Yes,Yes,2
+20/11/2023 11:01:08,M85,Pain,stabbing,Moderate,lingering pain,Eating,,,,,,,,,,,Chronic Destructive Periodontitis,No,Yes,2
+20/11/2023 11:02:08,F33,Pain,throbbing,Moderate,,Hot foods or drinks,,,,,,,,,,,Acute Irreversible Pulpitis,,,
+20/11/2023 11:02:40,M62,Swelling,aching,Moderate,lingering pain,Laying down,No,No,No,,,,,,,,Acute Irreversible Pulpitis with extra oral swelling,,,
+20/11/2023 11:03:26,F70,Swelling,aching,Mild,The pain came suddenly,Laying down,No,Slow,No,,,,,,,,Acute Irreversible Pulpitis with extra oral swelling,,,
+20/11/2023 11:04:14,M60,Pain,aching,Moderate,lingering pain,Eating,,,,,,,,,,,Chronic Destructive Periodontitis,No,Yes,1
+20/11/2023 11:04:44,M8,Pain,throbbing,Mild,The pain came suddenly,Hot foods or drinks,,,,,,,,,,,Acute Irreversible Pulpitis,,,
+21/11/2023 09:01:48,F8,Swelling,aching,Moderate,lingering pain,Eating,No,Slow,No,,,,,,,,Acute Irreversible Pulpitis with extra oral swelling,,,
+21/11/2023 09:03:44,M7,Pain,throbbing,Mild,lingering pain,Eating,,,,,,,,,,,Acute Reversible Pulpitis,,,
+21/11/2023 09:04:25,F67,Pain,throbbing,Moderate,The pain came suddenly,Eating,,,,,,,,,,,Chronic Destructive Periodontitis,Yes,Yes,2
+21/11/2023 09:05:34,F75,Pain,aching,Moderate,lingering pain,Eating,,,,,,,,,,,Acute Gingivitis,Yes,Yes,No
+21/11/2023 09:06:21,F52,Pain,stabbing,Moderate,lingering pain,Eating,,,,,,,,,,,Acute Gingivitis,Yes,Yes,No
+21/11/2023 09:06:57,M58,Pain,throbbing,Mild,The pain came suddenly,Cold foods or drinks,,,,,,,,,,,Acute Reversible Pulpitis,,,
+21/11/2023 09:07:28,M55,Pain,throbbing,Mild,lingering pain,Cold foods or drinks,,,,,,,,,,,Acute Reversible Pulpitis,,,
+21/11/2023 09:08:10,F62,Swelling,throbbing,Moderate,lingering pain,Eating,No,Slow,No,,,,,,,,Acute Irreversible Pulpitis with extra oral swelling,,,
+21/11/2023 09:14:08,F42,Pain,throbbing,Mild,The pain came suddenly,Cold foods or drinks,,,,,,,,,,,Acute Reversible Pulpitis,,,
+21/11/2023 09:14:52,F59,Pain,aching,Moderate,lingering pain,Eating,,,,,,,,,,,Acute Gingivitis,Yes,Yes,No
+21/11/2023 09:15:28,F16,Pain,throbbing,Mild,The pain came suddenly,Cold foods or drinks,,,,,,,,,,,Acute Reversible Pulpitis,,,
+21/11/2023 09:15:55,M11,Pain,throbbing,Mild,lingering pain,Cold foods or drinks,,,,,,,,,,,Acute Reversible Pulpitis,,,
+21/11/2023 09:16:38,F56,Ulcer,burning,Severe,lingering pain,Eating,,,,Yes,No,No,No,No,Yes,Yes,Aphthous ulcer,,,
+21/11/2023 09:17:28,F5,Pain,throbbing,Moderate,lingering pain,Eating,,,,Yes,No,No,No,Yes,Yes,Yes,Aphthous ulcer,,,
+21/11/2023 09:18:06,M17,Ulcer,throbbing,Moderate,,Eating,,,,Yes,No,No,No,Yes,Yes,Yes,Aphthous ulcer,,,
+21/11/2023 09:18:42,M54,Swelling,stabbing,Severe,The pain came suddenly,Hot foods or drinks,Yes,Slow,No,,,,,,,,Acute Irreversible Pulpitis with extra oral swelling,,,
+21/11/2023 09:19:17,M58,Pain,throbbing,Excrutiating,The pain came suddenly,Hot foods or drinks,,,,,,,,,,,Acute Irreversible Pulpitis,,,
+21/11/2023 09:19:51,F65,Pain,throbbing,Moderate,lingering pain,Eating,,,,,,,,,,,Acute Gingivitis,No,Yes,No
+21/11/2023 09:20:26,F60,Pain,throbbing,Moderate,lingering pain,Hot foods or drinks,,,,,,,,,,,Acute Irreversible Pulpitis,,,
+21/11/2023 11:18:32,M61,Ulcer,burning,Severe,The pain came suddenly,Eating,,,,Yes,No,No,No,Yes,Yes,No,Aphthous ulcer,,,
+21/11/2023 11:18:56,F41,Pain,throbbing,Mild,The pain came suddenly,Cold foods or drinks,,,,,,,,,,,Acute Reversible Pulpitis,,,
+21/11/2023 11:19:38,M75,Pain,aching,Mild,lingering pain,Eating,,,,,,,,,,,Chronic Destructive Periodontitis,No,Yes,1
+21/11/2023 11:20:14,F39,Pain,throbbing,Mild,The pain came suddenly,Cold foods or drinks,,,,,,,,,,,Acute Reversible Pulpitis,,,
+21/11/2023 11:20:53,M51,Pain,throbbing,Mild,The pain came suddenly,Cold foods or drinks,,,,,,,,,,,Acute Reversible Pulpitis,,,
+21/11/2023 11:21:35,M54,Pain,throbbing,Moderate,The pain came suddenly,Hot foods or drinks,,,,,,,,,,,Acute Irreversible Pulpitis,,,
+21/11/2023 11:22:05,M44,Pain,throbbing,Mild,The pain came suddenly,Cold foods or drinks,,,,,,,,,,,Acute Reversible Pulpitis,,,
+21/11/2023 11:22:41,M59,Pain,throbbing,Moderate,lingering pain,Eating,,,,,,,,,,,Acute Gingivitis,Yes,Yes,No
+21/11/2023 11:23:10,F69,Swelling,stabbing,Moderate,lingering pain,Eating,No,Slow,No,,,,,,,,Acute Irreversible Pulpitis with extra oral swelling,,,
+21/11/2023 11:23:39,F74,Pain,throbbing,Mild,lingering pain,Cold foods or drinks,,,,,,,,,,,Acute Reversible Pulpitis,,,
+21/11/2023 11:24:03,F42,Pain,throbbing,Mild,lingering pain,Cold foods or drinks,,,,,,,,,,,Pericoronitis,,,
+21/11/2023 11:24:58,F60,Pain,stabbing,Moderate,lingering pain,Eating,,,,,,,,,,,Chronic Destructive Periodontitis,Yes,Yes,2
+22/11/2023 09:32:17,M52,Pain,throbbing,Moderate,lingering pain,Eating,,,,,,,,,,,Acute Irreversible Pulpitis,,,
+22/11/2023 09:32:58,M73,Pain,aching,Mild,lingering pain,Eating,,,,,,,,,,,Acute Gingivitis,No,Yes,No
+22/11/2023 09:33:30,F58,Pain,throbbing,Mild,The pain came suddenly,Cold foods or drinks,,,,,,,,,,,Acute Reversible Pulpitis,,,
+22/11/2023 09:34:09,M2,Ulcer,burning,Moderate,lingering pain,No,,,,Yes,No,No,No,No,No,No,Aphthous ulcer,,,
+22/11/2023 09:35:45,M52,Ulcer,throbbing,Moderate,lingering pain,Eating,,,,Yes,Yes,No,No,,Yes,No,Aphthous ulcer,,,
+22/11/2023 09:36:21,F42,Pain,throbbing,Severe,The pain came suddenly,Hot foods or drinks,,,,,,,,,,,Acute Irreversible Pulpitis,,,
+22/11/2023 09:36:46,F17,Pain,throbbing,Mild,The pain came suddenly,Cold foods or drinks,,,,,,,,,,,Acute Reversible Pulpitis,,,
+22/11/2023 09:44:15,M8,Pain,throbbing,Mild,The pain came suddenly,Cold foods or drinks,,,,,,,,,,,Acute Reversible Pulpitis,,,
+22/11/2023 11:27:03,M5,Swelling,stabbing,Moderate,lingering pain,Eating,Yes,Slow,No,,,,,,,,Acute Irreversible Pulpitis with extra oral swelling,,,
+22/11/2023 11:27:28,F6,Pain,aching,Mild,The pain came suddenly,Eating,,,,,,,,,,,Acute Reversible Pulpitis,,,
+22/11/2023 11:28:07,F63,Ulcer,burning,Severe,The pain came suddenly,Eating,,,,Yes,No,No,No,Yes,No,No,Aphthous ulcer,,,
+22/11/2023 11:28:35,F32,Pain,throbbing,Moderate,lingering pain,Eating,,,,,,,,,,,Acute Irreversible Pulpitis,,,
+22/11/2023 11:28:59,M9,Pain,throbbing,Mild,The pain came suddenly,Cold foods or drinks,,,,,,,,,,,Acute Reversible Pulpitis,,,
+22/11/2023 11:29:37,M60,Pain,aching,Moderate,lingering pain,Eating,,,,,,,,,,,Chronic destructive periodontitis,Yes,Yes,3
+22/11/2023 11:30:24,F56,Ulcer,burning,Moderate,lingering pain,Eating,,,,Yes,,No,No,Yes,No,No,Aphthous ulcer,,,
+22/11/2023 11:31:06,F6,Swelling,aching,Mild,lingering pain,Eating,Yes,Slow,No,,,,,,,,Acute Irreversible Pulpitis with extra oral swelling,,,
+22/11/2023 11:31:32,F28,Pain,throbbing,Mild,lingering pain,Cold foods or drinks,,,,,,,,,,,Acute Reversible Pulpitis,,,
+22/11/2023 11:32:10,F56,Pain,aching,Moderate,lingering pain,Eating,,,,,,,,,,,Chronic destructive periodontitis,Yes,Yes,1
+22/11/2023 11:32:42,F60,Pain,throbbing,Mild,lingering pain,Eating,,,,,,,,,,,Chronic destructive periodontitis,Yes,Yes,2
+22/11/2023 11:33:05,M26,Pain,throbbing,Moderate,The pain came suddenly,Hot foods or drinks,,,,,,,,,,,Acute Irreversible Pulpitis,,,
+23/11/2023 10:43:23,F18,Pain,throbbing,Moderate,The pain came suddenly,Hot foods or drinks,,,,,,,,,,,Acute Irreversible Pulpitis,,,
+23/11/2023 10:44:06,M39,Pain,aching,Mild,lingering pain,Eating,,,,,,,,,,,Acute Gingivitis,Yes,Yes,No
+23/11/2023 10:44:36,F12,Pain,throbbing,Mild,lingering pain,Cold foods or drinks,,,,,,,,,,,Acute Reversible Pulpitis,,,
+23/11/2023 10:45:16,F70,Swelling,stabbing,Mild,lingering pain,Eating,Yes,Slow,No,,,,,,,,Acute Irreversible Pulpitis with extra oral swelling,,,
+23/11/2023 10:46:09,M7,Ulcer,burning,Moderate,The pain came suddenly,Eating,,,,Yes,No,No,No,Yes,Yes,Yes,Aphthous ulcer,,,
+23/11/2023 11:09:40,F21,Pain,throbbing,Mild,lingering pain,Cold foods or drinks,,,,,,,,,,,Acute Reversible Pulpitis,,,
+23/11/2023 11:10:25,F51,Ulcer,burning,Moderate,lingering pain,No,,,,Yes,No,No,No,Yes,Yes,Yes,Aphthous ulcer,,,
+23/11/2023 11:11:03,F7,Swelling,aching,Mild,lingering pain,Eating,Yes,Slow,No,,,,,,,,Acute Irreversible Pulpitis with extra oral swelling,,,
+23/11/2023 11:11:34,M19,Pain,throbbing,Mild,lingering pain,Cold foods or drinks,,,,,,,,,,,Acute Reversible Pulpitis,,,
+23/11/2023 11:12:19,M58,Swelling,aching,Moderate,lingering pain,Eating,Yes,Slow,No,,,,,,,,Acute Irreversible Pulpitis with extra oral swelling,,,
+23/11/2023 11:13:00,M69,Pain,aching,Moderate,lingering pain,Eating,,,,,,,,,,,Acute Reversible Pulpitis with food impaction,Yes,Yes,No
+23/11/2023 11:13:46,M74,Swelling,aching,Moderate,lingering pain,Eating,Yes,Slow,No,,,,,,,,Acute Irreversible Pulpitis with extra oral swelling,,,
+23/11/2023 11:14:15,F21,Pain,throbbing,Mild,lingering pain,Cold foods or drinks,,,,,,,,,,,Acute Reversible Pulpitis,,,
+23/11/2023 11:15:13,M22,Pain,stabbing,Severe,The pain came suddenly,Eating,,,,,,,,,,,Pericoronitis,No,Yes,
+23/11/2023 11:15:45,F74,Pain,throbbing,Moderate,The pain came suddenly,Hot foods or drinks,,,,,,,,,,,Acute Irreversible Pulpitis,,,
+23/11/2023 11:16:27,M56,Pain,stabbing,Moderate,lingering pain,Eating,,,,,,,,,,,Chronic destructive periodontitis,Yes,Yes,2
+23/11/2023 11:17:04,M50,Swelling,aching,Moderate,lingering pain,Laying down,Yes,No,,,,,,,,,Acute Irreversible Pulpitis with extra oral swelling,,,
+23/11/2023 11:17:32,M58,Pain,throbbing,Moderate,The pain came suddenly,Laying down,,,,,,,,,,,Acute Irreversible Pulpitis,,,
+23/11/2023 11:18:14,F18,Pain,stabbing,Severe,The pain came suddenly,Eating,,,,,,,,,,,Pericoronitis,No,Yes,
+23/11/2023 11:18:59,M85,Pain,throbbing,Moderate,lingering pain,Eating,,,,,,,,,,,Chronic destructive periodontitis,,Yes,2
+23/11/2023 11:19:27,F5,Pain,throbbing,Mild,The pain came suddenly,Cold foods or drinks,,,,,,,,,,,Acute Reversible Pulpitis,,,
+23/11/2023 11:20:30,M56,Swelling,stabbing,Moderate,The pain came suddenly,Eating,Yes,Slow,No,,,,,,,,Acute Irreversible Pulpitis with extra oral swelling,,,
+24/11/2023 09:41:10,M48,Pain,throbbing,Mild,lingering pain,Cold foods or drinks,,,,,,,,,,,Acute Reversible Pulpitis,,,
+24/11/2023 09:42:08,F46,Swelling,throbbing,Mild,lingering pain,Eating,Yes,Slow,No,,,,,,,,Acute Gingivitis,Yes,Yes,No
+24/11/2023 10:27:50,M24,Pain,aching,Severe,lingering pain,Eating,,,,,,,,,,,Pericoronitis,,,
+24/11/2023 10:28:14,F4,Pain,throbbing,Mild,lingering pain,Cold foods or drinks,,,,,,,,,,,Acute Reversible Pulpitis,,,
+24/11/2023 10:28:49,M63,Swelling,aching,Moderate,The pain came suddenly,Eating,Yes,Slow,No,,,,,,,,Pulpitis with swelling,,,
+24/11/2023 10:29:26,M52,Pain,throbbing,Moderate,lingering pain,Eating,,,,,,,,,,,Acute Gingivitis,Yes,Yes,No
+24/11/2023 10:30:16,M73,Pain,aching,Moderate,lingering pain,Eating,,,,,,,,,,,Chronic destructive periodontitis,Yes,Yes,2
+24/11/2023 10:33:08,M34,Pain,throbbing,Mild,lingering pain,Cold foods or drinks,,,,,,,,,,,Acute Reversible Pulpitis,,,
+24/11/2023 10:33:51,M75,Ulcer,burning,Moderate,The pain came suddenly,Eating,,,,Yes,No,No,No,,Yes,No,Aphthous ulcer,,,
+24/11/2023 10:34:31,F64,Pain,aching,Mild,lingering pain,Eating,,,,,,,,,,,Chronic destructive periodontitis,Yes,Yes,2
+24/11/2023 10:34:59,F24,Pain,throbbing,Moderate,The pain came suddenly,Hot foods or drinks,,,,,,,,,,,Acute Irreversible Pulpitis,,,
+24/11/2023 10:35:34,M73,Pain,burning,Moderate,lingering pain,Eating,,,,,,,,,,,Acute Gingivitis,No,Yes,No
+24/11/2023 10:36:18,M60,Ulcer,burning,Moderate,lingering pain,Eating,,,,Yes,No,No,No,Yes,No,No,Aphthous ulcer,,,
+24/11/2023 10:36:57,M60,Swelling,stabbing,Severe,lingering pain,Laying down,Yes,Slow,No,,,,,,,,Acute Irreversible Pulpitis with extra oral swelling,,,
+24/11/2023 11:00:24,M26,Pain,throbbing,Moderate,lingering pain,Hot foods or drinks,,,,,,,,,,,Acute Irreversible Pulpitis,,,
+24/11/2023 11:14:17,F32,Pain,burning,Mild,lingering pain,Eating,,,,,,,,,,,Acute Gingivitis,Yes,Yes,No
+24/11/2023 11:14:51,F74,Pain,aching,Moderate,lingering pain,Eating,,,,,,,,,,,Chronic destructive periodontitis,Yes,Yes,2
+24/11/2023 11:15:22,F51,Pain,throbbing,Mild,The pain came suddenly,Cold foods or drinks,,,,,,,,,,,Acute Reversible Pulpitis,,,
+24/11/2023 11:16:03,M49,Pain,throbbing,Moderate,The pain came suddenly,Hot foods or drinks,,,,,,,,,,,Acute Irreversible Pulpitis,,,
+27/11/2023 09:14:06,M49,Ulcer,burning,Mild,lingering pain,Eating,,,,Yes,No,No,No,Yes,No,No,Aphthous ulcer,No,No,No
+27/11/2023 09:14:48,F65,Ulcer,burning,Mild,The pain came suddenly,Eating,,,,Yes,No,No,No,No,Yes,Yes,Aphthous ulcer,No,No,No
+27/11/2023 09:15:40,F7,Ulcer,burning,Mild,The pain came suddenly,Eating,,,,Yes,No,No,No,Yes,Yes,Yes,Aphthous ulcer,No,No,No
+27/11/2023 09:16:26,M9,Ulcer,burning,Mild,lingering pain,Eating,,,,Yes,No,No,No,Yes,Yes,Yes,Aphthous ulcer,No,No,No
+27/11/2023 09:17:06,F30,Ulcer,burning,Moderate,lingering pain,Eating,,,,Yes,No,No,No,Yes,Yes,Yes,Aphthous ulcer,No,No,No
+27/11/2023 09:17:58,M55,Ulcer,burning,Moderate,lingering pain,Eating,,,,Yes,No,No,No,Yes,Yes,Yes,Aphthous ulcer,No,No,No
+27/11/2023 09:18:41,F54,Ulcer,burning,Moderate,lingering pain,Eating,,,,Yes,No,No,No,Yes,Yes,Yes,Aphthous ulcer,No,No,No
+27/11/2023 09:19:21,M5,Ulcer,burning,Moderate,lingering pain,Eating,,,,Yes,No,No,No,Yes,Yes,Yes,Aphthous ulcer,No,No,No
+27/11/2023 09:20:07,F10,Ulcer,burning,Moderate,lingering pain,Eating,,,,Yes,No,No,No,Yes,Yes,No,Aphthous ulcer,No,No,No
+27/11/2023 09:24:42,F72,Ulcer,burning,Moderate,lingering pain,Eating,,,,Yes,No,No,No,Yes,Yes,Yes,Aphthous ulcer,No,No,No
+27/11/2023 09:25:21,F12,Ulcer,burning,Moderate,lingering pain,Eating,,,,Yes,No,No,No,Yes,Yes,No,Aphthous ulcer,No,No,No
+27/11/2023 09:26:15,M3,Ulcer,burning,Moderate,lingering pain,Eating,,,,Yes,No,No,No,Yes,Yes,Yes,Aphthous ulcer,No,No,No
+27/11/2023 09:26:53,M50,Ulcer,burning,Moderate,lingering pain,Eating,,,,Yes,No,No,No,Yes,Yes,Yes,Aphthous ulcer,No,No,No
+27/11/2023 09:27:59,M10,Ulcer,burning,Moderate,lingering pain,Eating,,,,Yes,No,No,No,Yes,Yes,Yes,Aphthous ulcer,No,No,No
+27/11/2023 09:28:33,M12,Ulcer,burning,Mild,lingering pain,Eating,,,,Yes,No,No,No,Yes,Yes,Yes,Aphthous ulcer,No,No,No
+27/11/2023 09:29:11,F28,Ulcer,burning,Moderate,lingering pain,Eating,,,,Yes,No,No,No,Yes,Yes,Yes,Aphthous ulcer,No,No,No
+27/11/2023 09:30:02,F6,Ulcer,burning,Moderate,lingering pain,Eating,,,,Yes,No,No,No,Yes,Yes,No,Aphthous ulcer,No,No,No
+27/11/2023 09:30:32,F63,Pain,throbbing,Moderate,lingering pain,Eating,,,,,,,,,,,Acute Gingivitis,Yes,Yes,No
+27/11/2023 09:31:06,F59,Pain,throbbing,Moderate,lingering pain,Eating,,,,,,,,,,,Acute Gingivitis,Yes,Yes,No
+27/11/2023 09:31:42,M66,Pain,throbbing,Moderate,lingering pain,,,,,,,,,,,,Acute Gingivitis,Yes,Yes,No
+27/11/2023 09:34:11,M34,Pain,aching,Moderate,lingering pain,Eating,,,,,,,,,,,Acute Gingivitis,Yes,Yes,No
+27/11/2023 09:34:44,M70,Ulcer,burning,Moderate,lingering pain,Eating,,,,Yes,No,No,No,Yes,Yes,Yes,Aphthous ulcer,,,
+27/11/2023 09:43:20,M7,Ulcer,burning,,lingering pain,Eating,,,,Yes,No,No,No,Yes,Yes,Yes,Aphthous ulcer,,,
+27/11/2023 10:32:35,M5,Ulcer,burning,Moderate,lingering pain,Eating,,,,Yes,No,No,No,Yes,Yes,No,Aphthous ulcer,No,No,No
+27/11/2023 10:33:18,F64,Pain,throbbing,Mild,lingering pain,Eating,,,,,,,,,,,Chronic destructive periodontitis,Yes,Yes,2
+27/11/2023 10:34:06,F6,Pain,burning,Moderate,lingering pain,Eating,,,,Yes,No,No,No,Yes,Yes,Yes,Aphthous ulcer,,,
+27/11/2023 10:34:52,F33,Pain,stabbing,Moderate,lingering pain,Eating,,,,,,,,,,,Acute Gingivitis,Yes,Yes,No
+27/11/2023 10:39:22,M12,Pain,aching,Moderate,lingering pain,Eating,,,,,,,,,,,Acute Gingivitis,Yes,Yes,
+27/11/2023 10:40:00,F24,Ulcer,burning,Moderate,lingering pain,Eating,,,,Yes,No,No,No,Yes,Yes,Yes,Aphthous ulcer,,,
+27/11/2023 10:41:03,M4,Ulcer,burning,Moderate,lingering pain,Eating,,,,Yes,No,No,No,Yes,Yes,No,Aphthous ulcer,No,No,No
+27/11/2023 10:41:59,M11,Pain,throbbing,Moderate,,Eating,,,,,,,,,,,Acute Gingivitis,Yes,Yes,No
+27/11/2023 10:45:33,M70,Pain,aching,Moderate,lingering pain,Eating,,,,,,,,,,,Chronic destructive periodontitis,Yes,Yes,2
+27/11/2023 10:47:17,F34,Ulcer,burning,Moderate,lingering pain,Eating,,,,Yes,No,No,No,Yes,Yes,No,Aphthous ulcer,No,No,No
+27/11/2023 10:52:09,M59,Pain,aching,Moderate,lingering pain,Eating,,,,,,,,,,,Acute Gingivitis,Yes,Yes,No
+27/11/2023 11:09:21,F7,Ulcer,burning,Moderate,,Eating,,,,Yes,No,No,No,Yes,Yes,Yes,Aphthous ulcer,,,
+28/11/2023 09:49:53,F46,Ulcer,burning,Mild,The pain came suddenly,Eating,,,,Yes,No,No,No,Yes,Yes,Yes,Aphthous ulcer,,,
+28/11/2023 09:50:30,F24,Ulcer,burning,Moderate,lingering pain,Eating,,,,Yes,No,No,No,Yes,Yes,Yes,Aphthous ulcer,,,
+28/11/2023 10:52:43,F35,Pain,burning,Moderate,lingering pain,,,,,Yes,No,No,No,Yes,Yes,Yes,Aphthous ulcer,No,No,No
+28/11/2023 10:53:24,F18,Pain,aching,,lingering pain,Eating,,,,,,,,,,,Acute Gingivitis,Yes,Yes,No
+28/11/2023 10:54:00,M61,Pain,aching,Moderate,lingering pain,Eating,,,,,,,,,,,Chronic destructive periodontitis,Yes,Yes,2
+28/11/2023 10:55:15,M78,Pain,aching,Moderate,lingering pain,,,,,,,,,,,,Chronic destructive periodontitis,No,Yes,2
+28/11/2023 10:56:40,M28,Swelling,aching,Moderate,lingering pain,Eating,Yes,Slow,No,,,,,,,,Acute Irreversible Pulpitis with extra oral swelling,,,
+28/11/2023 10:57:20,M43,Pain,throbbing,Moderate,lingering pain,Eating,,,,,,,,,,,Acute Gingivitis,Yes,Yes,
+28/11/2023 10:57:51,M63,Swelling,aching,Moderate,The pain came suddenly,Hot foods or drinks,Yes,Slow,No,,,,,,,,Pulpitis with swelling,,,
+28/11/2023 10:58:28,M50,Pain,aching,Moderate,lingering pain,Eating,,,,,,,,,,,Acute Gingivitis,Yes,Yes,
+28/11/2023 10:59:05,F55,Swelling,aching,Moderate,lingering pain,Eating,Yes,Slow,No,,,,,,,,Pulpitis with swelling,,,
+28/11/2023 10:59:51,F45,Ulcer,burning,Moderate,lingering pain,Eating,,,,Yes,No,No,No,Yes,Yes,No,Aphthous ulcer,,,
+28/11/2023 11:00:33,F16,Ulcer,burning,Moderate,lingering pain,Eating,,,,Yes,No,No,No,Yes,Yes,Yes,Aphthous ulcer,,,
+28/11/2023 11:01:20,F30,Pain,throbbing,Moderate,lingering pain,Eating,,,,,,,,,,,Acute Gingivitis,Yes,Yes,No
+28/11/2023 11:02:03,F19,Ulcer,burning,Moderate,lingering pain,Eating,,,,Yes,No,No,No,Yes,Yes,Yes,Aphthous ulcer,,,
+28/11/2023 11:03:02,F68,Pain,stabbing,Mild,lingering pain,Eating,,,,,,,,,,,Chronic destructive periodontitis,Yes,Yes,2
+29/11/2023 08:48:22,M59,Pain,aching,Mild,lingering pain,Eating,,,,,,,,,,,Chronic destructive periodontitis,Yes,Yes,2
+29/11/2023 08:52:43,M72,Pain,aching,Moderate,lingering pain,Eating,,,,,,,,,,,Chronic destructive periodontitis,Yes,Yes,2
+29/11/2023 08:53:34,M73,Swelling,aching,Mild,lingering pain,Eating,Yes,Slow,No,,,,,,,,Pulpitis with swelling,Yes,Yes,No
+29/11/2023 08:54:20,M19,Pain,stabbing,Moderate,lingering pain,Eating,,,,,,,,,,,Acute Gingivitis,No,Yes,No
+29/11/2023 08:54:49,F7,Pain,aching,Moderate,The pain came suddenly,Eating,,,,,,,,,,,Acute Gingivitis,Yes,Yes,No
+29/11/2023 09:05:54,F43,Pain,aching,Severe,The pain came suddenly,Eating,,,,,,,,,,,Pericoronitis,,,
+29/11/2023 09:13:11,M62,Swelling,aching,Moderate,The pain came suddenly,Laying down,Yes,Slow,No,,,,,,,,Acute Irreversible Pulpitis with extra oral swelling,,,
+29/11/2023 11:07:45,F11,Pain,aching,Moderate,The pain came suddenly,Eating,,,,,,,,,,,Acute Gingivitis,Yes,Yes,
+29/11/2023 11:08:33,M7,Ulcer,burning,Severe,lingering pain,Eating,,,,Yes,No,No,No,No,Yes,No,Aphthous ulcer,,,
+29/11/2023 11:09:12,M47,Pain,throbbing,Moderate,lingering pain,Eating,,,,,,,,,,,Chronic destructive periodontitis,Yes,Yes,2
+29/11/2023 11:09:46,F7,Swelling,aching,Moderate,lingering pain,Hot foods or drinks,Yes,Slow,No,,,,,,,,Acute Irreversible Pulpitis with extra oral swelling,,,
+29/11/2023 11:10:22,F68,Pain,aching,Moderate,lingering pain,Eating,,,,,,,,,,,Acute Gingivitis,Yes,Yes,No
+29/11/2023 11:11:02,F28,Pain,aching,Severe,lingering pain,Eating,,,,,,,,,,,Pericoronitis,,Yes,No
+29/11/2023 11:11:41,F57,Ulcer,burning,Moderate,lingering pain,Eating,,,,Yes,No,No,No,Yes,Yes,No,Aphthous ulcer,,,
+29/11/2023 11:18:03,F40,Swelling,stabbing,Moderate,lingering pain,Eating,Yes,Slow,No,,,,,,,,Acute Gingivitis,Yes,Yes,No
+29/11/2023 11:18:39,M75,Pain,aching,Moderate,The pain came suddenly,Eating,,,,,,,,,,,Chronic destructive periodontitis,Yes,Yes,2
+29/11/2023 11:19:10,M44,Pain,stabbing,Moderate,lingering pain,Eating,,,,,,,,,,,Pericoronitis,No,Yes,No
+29/11/2023 11:19:58,F43,Pain,aching,Moderate,The pain came suddenly,,,,,,,,,,,,Acute Gingivitis,Yes,Yes,No
+29/11/2023 11:20:57,F44,Ulcer,burning,Moderate,lingering pain,Eating,,,,Yes,No,No,No,Yes,Yes,No,Aphthous ulcer,,,
+29/11/2023 11:21:42,F6,Swelling,throbbing,Moderate,The pain came suddenly,Hot foods or drinks,Yes,Slow,No,,,,,,,,Pulpitis with swelling,,,
+29/11/2023 11:22:19,F7,Swelling,throbbing,Moderate,lingering pain,Hot foods or drinks,Yes,Slow,,,,,,,,,Pulpitis with swelling,,,
+29/11/2023 11:23:11,M11,Ulcer,burning,Moderate,lingering pain,Eating,,,,Yes,No,No,No,Yes,Yes,No,Aphthous ulcer,,,
+29/11/2023 11:23:50,M51,Pain,throbbing,Moderate,lingering pain,Eating,,,,,,,,,,,Chronic destructive periodontitis,Yes,Yes,2
+30/11/2023 10:24:34,M51,Pain,aching,Moderate,lingering pain,Eating,,,,,,,,,,,Chronic destructive periodontitis,No,Yes,2
+30/11/2023 10:25:10,F63,Pain,aching,Moderate,lingering pain,Eating,,,,,,,,,,,Chronic destructive periodontitis,Yes,Yes,2
+30/11/2023 10:25:59,F20,Pain,stabbing,Moderate,lingering pain,Eating,,,,,,,,,,,Pericoronitis,No,Yes,No
+30/11/2023 10:33:41,F15,Pain,aching,Mild,lingering pain,Eating,,,,,,,,,,,Acute Gingivitis,Yes,Yes,No
+30/11/2023 10:34:23,F21,Pain,throbbing,Mild,lingering pain,Eating,,,,,,,,,,,Acute Gingivitis,Yes,Yes,No
+30/11/2023 10:35:02,F31,Ulcer,burning,Moderate,The pain came suddenly,Eating,,,,Yes,No,No,No,No,Yes,No,Aphthous ulcer,,,
+30/11/2023 10:36:00,F37,Ulcer,burning,Moderate,lingering pain,Eating,,,,Yes,No,No,No,Yes,Yes,No,Aphthous ulcer,,,
+30/11/2023 10:41:18,F15,Ulcer,burning,Moderate,lingering pain,Eating,,,,Yes,No,No,No,Yes,No,Yes,Aphthous ulcer,,,
+30/11/2023 10:41:53,F59,Pain,aching,Moderate,lingering pain,Eating,,,,,,,,,,,Acute Gingivitis,Yes,Yes,No
+30/11/2023 10:43:49,M55,Ulcer,burning,Mild,The pain came suddenly,Eating,,,,Yes,No,No,No,Yes,Yes,Yes,Aphthous ulcer,,,
+30/11/2023 10:44:23,M67,Pain,aching,Moderate,lingering pain,Eating,,,,,,,,,,,Acute Gingivitis,No,Yes,No
+30/11/2023 10:51:31,F57,Pain,throbbing,Moderate,,Eating,,,,,,,,,,,Chronic destructive periodontitis,Yes,Yes,2
+30/11/2023 10:52:14,F63,Pain,throbbing,Moderate,lingering pain,Eating,,,,,,,,,,,Chronic destructive periodontitis,Yes,Yes,2
+30/11/2023 10:52:56,F46,Ulcer,burning,Moderate,lingering pain,Eating,,,,Yes,Yes,No,No,Yes,Yes,Yes,Aphthous ulcer,,,
