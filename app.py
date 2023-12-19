@@ -48,8 +48,11 @@ async def predict(input_data: InputData):
     # Run prediction with ONNX Runtime
     ort_inputs = {input_name: input_np}
     ort_outs = sess.run(None, ort_inputs)
+    print(ort_outs)
     predicted_value = (round(ort_outs[0][0][0]))
-    
+    if predicted_value<0:
+        predicted_value=(-1)*predicted_value    
+        
     # Return integer prediction
     return {"prediction": predicted_value}
 
