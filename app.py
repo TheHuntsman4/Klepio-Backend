@@ -33,7 +33,7 @@ app.add_middleware(
     allow_methods=["*"],
     allow_headers=["*"],)
 # Load ONNX model
-sess = rt.InferenceSession("DentAIv3.onnx") 
+sess = rt.InferenceSession("DentAIv4.onnx") 
 input_name = sess.get_inputs()[0].name
 
 @app.post("/predict")
